@@ -1,6 +1,6 @@
 {
   "name": "react-file-viewer-fix",
-  "version": "0.1.1",
+  "version": "0.1.2",
   "description": "Extendable file viewer for web",
   "main": "dist/index.js",
   "module": "dist/index.js",
