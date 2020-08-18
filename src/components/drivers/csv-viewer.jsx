@@ -18,8 +18,6 @@ class CsvViewer extends Component {
             key: `key-${idx}`,
             name: cell,
             resizable: true,
-            sortable: false,
-            filterable: true,
           });
         });
       } else {
